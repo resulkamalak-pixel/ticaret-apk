@@ -1,0 +1,7 @@
+{
+  "appId": "com.ticaret.imparatorlugu",
+  "appName": "Ticaret Imparatorlugu",
+  "webDir": "public",
+  "server": { "cleartext": true, "androidScheme": "https" },
+  "android": { "allowMixedContent": true, "backgroundColor": "#020008", "minSdkVersion": 22 }
+}
