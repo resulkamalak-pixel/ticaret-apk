@@ -1,11 +1,8 @@
 {
   "name": "ticaret-imparatorlugu-apk",
-  "version": "10.55.0",
-  "description": "Ticaret Imparatorlugu APK",
+  "version": "10.54.0",
+  "private": true,
   "scripts": { "build": "echo ok" },
-  "dependencies": {
-    "@capacitor/android": "^6.0.0",
-    "@capacitor/core": "^6.0.0"
-  },
-  "devDependencies": { "@capacitor/cli": "^6.0.0" }
+  "dependencies": { "@capacitor/android": "^6.0.0", "@capacitor/core": "^6.0.0" },
+  "devDependencies": { "@capacitor/assets": "^3.0.5", "@capacitor/cli": "^6.0.0" }
 }
