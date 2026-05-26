@@ -2,19 +2,7 @@
   "appId": "com.ticaret.imparatorlugu",
   "appName": "Ticaret Imparatorlugu",
   "webDir": "public",
-  "server": {
-    "cleartext": true,
-    "androidScheme": "https",
-    "allowNavigation": [
-      "*.trycloudflare.com",
-      "*.zrok.io",
-      "*.share.zrok.io",
-      "api.github.com"
-    ]
-  },
-  "android": {
-    "allowMixedContent": true,
-    "backgroundColor": "#020008",
-    "minSdkVersion": 22
-  }
+  "server": { "cleartext": true, "androidScheme": "https" },
+  "android": { "allowMixedContent": true, "backgroundColor": "#090c18", "minSdkVersion": 22 },
+  "plugins": { "SplashScreen": { "launchShowDuration": 2000, "backgroundColor": "#090c18", "showSpinner": false } }
 }
